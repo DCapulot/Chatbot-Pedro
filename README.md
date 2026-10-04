@@ -7,12 +7,12 @@ Chatbot textual em **Python** que simula um atendente virtual de uma loja de pro
 
 ## Autores
 
-| Nome | RA |
+| Nome |
 |---|---|
-| David Capulot Corrêa | |
+| David Capulot Corrêa | 
 | Gabriel do Almo Silveira Vicente  |
-| Peter Emmerich Mulim e Silva |  |
-| Welington Carlos Silva De Barros | |
+| Peter Emmerich Mulim e Silva |  
+| Welington Carlos Silva De Barros | 
 
 ---
 
